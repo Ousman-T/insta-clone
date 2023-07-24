@@ -1,0 +1,18 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+#add {
+    color: white;
+    display: flex;
+    float: right;
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+#join {
+    padding-top: 5px;
+}
